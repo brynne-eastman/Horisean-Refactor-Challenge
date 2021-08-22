@@ -11,6 +11,12 @@ Refactor the original code for a website called Horisean.
 - Consilidated repetitive styles
 - Rearranged stylesheet attributes to follow HTML
 
+### Website Link
+https://brynne-eastman.github.io/Horiseon-Refactor-Challenge/
+
+### Screenshot
+(./assets/images/Horiseon-Refactor-Challenge.png)
+
 
 
 

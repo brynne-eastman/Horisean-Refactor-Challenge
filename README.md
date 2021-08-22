@@ -1,7 +1,7 @@
 # Challenge 1: Refactor Horiseon Website
 
 ## Project Description
-Refactor the original code for a website called Horisean.  
+Refactor the original code for a website called Horiseon.  
 
 ### Refactor Comments
 - Added a web page title
